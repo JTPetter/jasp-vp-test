@@ -319,7 +319,7 @@ run;
 ```
 
 ```{r LogRegSAS, echo=FALSE, fig.cap="\\label{fig:LogRegSAS}SAS Output for Logistic Regression"}
-knitr::include_graphics('Screenshots/Logistic Regression/logregSAS.PNG')
+knitr::include_graphics('Screenshots/Logistic Regression/logregSas.PNG')
 ```
 
 ### Minitab {#minitabLogreg}
